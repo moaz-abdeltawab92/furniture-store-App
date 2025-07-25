@@ -1,52 +1,51 @@
-# furniture store App
+# Furniture Store App
 
 A clean and modern Flutter demo app for a home furniture store.  
 Easily browse products, add them to your favorites or cart, and manage your profile — all with a beautiful UI.
 
 ---
 
-##  Screenshots
+## Screenshots
 
-### 1. Home Page 
+### 1. Home Page
+#### The main page when you first open the app.
 ![Home Page](screenshots/Home.jpg)
-*The main page when you first open the app.*
 
 ---
 
 ### 2. Home Page with Favorite Selected
+#### After marking a product as favorite — heart icon highlighted.
 ![Home with Favorite](screenshots/withFavourite.jpg)
-*After marking a product as favorite (heart icon highlighted).*
 
 ---
 
-### 3.  Favorite Page
-![Home with Favorite](screenshots/Favourite.jpg)
-*After marking a product as favorite (heart icon highlighted).*
+### 3. Favorite Page
+#### A dedicated screen showing your favorite products.
+![Favorite Page](screenshots/Favourite.jpg)
 
 ---
 
 ### 4. Cart Page (with items)
+#### The cart page after adding some products.
 ![Cart Page](screenshots/cart.jpg)
-*The cart page after adding products.*
 
 ---
 
 ### 5. Profile Page
+#### The user profile screen with basic user info.
 ![Profile Page](screenshots/Profile.jpg)
-*The user profile page.*
 
 ---
 
 ## ✨ Features
 
-- Browse a list of home furniture products
-- Mark products as favorites (❤️)
-- Add products to your cart 🛒
-- View and remove items from your cart
+- Browse a list of home furniture products  
+- Mark products as favorites  
+- Add products to your cart  
+- View and remove items from your cart  
 - Simple profile page
 
 ---
-
 
 ## 📁 Project Structure
 
