@@ -51,18 +51,18 @@ Easily browse products, add them to your favorites or cart, and manage your prof
 ## 📁 Project Structure
 
 home_page/
-├── Assets/ # App images and icons
+├── Assets/              # App images and icons
 ├── lib/
-│ ├── core/ # App colors, text styles, theme, spacing
-│ ├── data/ # Dummy data (e.g., products)
-│ ├── models/ # Data models (e.g., Product)
-│ ├── pages/ # Main app pages (home, cart, favorites, profile)
-│ ├── utils/ # Constants, assets paths, helpers
-│ ├── widgets/ # Reusable UI components (ProductCard, SearchBar, etc.)
-│ └── main.dart # App entry point
-├── screenshots/ # App screenshots for README
-├── pubspec.yaml # Flutter dependencies and assets
-└── README.md # Project documentation
+│   ├── core/            # App colors, text styles, theme, spacing
+│   ├── data/            # Dummy data (e.g., products)
+│   ├── models/          # Data models (e.g., Product)
+│   ├── pages/           # Main app pages (home, cart, favorites, profile)
+│   ├── utils/           # Constants, assets paths, helpers
+│   ├── widgets/         # Reusable UI components (ProductCard, SearchBar, etc.)
+│   └── main.dart        # App entry point
+├── screenshots/         # App screenshots for README
+├── pubspec.yaml         # Flutter dependencies and assets
+└── README.md            # Project documentation
 
 
 
